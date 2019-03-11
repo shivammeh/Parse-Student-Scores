@@ -1,12 +1,5 @@
 /*main.cpp*/
 
-//
-// <<YOUR NAME HERE>>
-// U. of Illinois, Chicago
-// CS 341, Spring 2019
-// HW #05: std::map
-//
-
 #include <iostream>
 #include <iomanip>
 #include <fstream>
